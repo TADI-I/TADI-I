@@ -47,9 +47,11 @@
 
 ---
 
-## 🔗 Connect with Me
+- ## 🔗 Connect with Me
 
 - 🌍 **GitHub:** [TADI-I](https://github.com/TADI-I)
+- 🌐 **LinkedIn:** [TADI-I](https://www.linkedin.com/in/tadi-i/)
+
 
 Let's build something amazing together! 🚀
 
