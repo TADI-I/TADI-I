@@ -22,15 +22,18 @@
 ![MetaTrader](https://img.shields.io/badge/metatrader-%230081CB.svg?style=for-the-badge&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23F7B900.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/microsoft%20access-%232477B6.svg?style=for-the-badge&logo=microsoft%20access&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![GlassFish](https://img.shields.io/badge/glassfish-%230073aa.svg?style=for-the-badge&logo=glassfish&logoColor=white)  
+
 
 
 ---
 
 ## 📌 Projects & Interests
 
-- 🌐 **Full-Stack Web Development** (Flask, Bootstrap, HTML/CSS, PostgreSQL)
-- 📱 **Mobile App Development** (Android Studio, Java, Spring Boot)
-- 🛠️ **Backend Development** (Python, Flask, Spring Boot)
+- 🌐 **Full-Stack Web Development** (React, Flask, Bootstrap, PostgreSQL)  
+- 📱 **Mobile App Development** (Android Studio, Kotlin, Java, Spring Boot)  
+- 🛠️ **Backend Systems** (Flask, Spring Boot, GlassFish)  
 - 🤖 **AI & Automation** (Trading Bots, AI-based Decision Making, Reinforcement Learning)
 - 📈 **Algorithmic Trading** (MetaTrader, Automated Trading Systems)
 - 🚗 **IoT & Automation** (Automated Car Wash System, Smart Queue Management)
