@@ -19,8 +19,10 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MetaTrader](https://img.shields.io/badge/metatrader-%230081CB.svg?style=for-the-badge&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23F7B900.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/microsoft%20access-%232477B6.svg?style=for-the-badge&logo=microsoft%20access&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![GlassFish](https://img.shields.io/badge/glassfish-%230073aa.svg?style=for-the-badge&logo=glassfish&logoColor=white)  
@@ -31,8 +33,8 @@
 
 ## 📌 Projects & Interests
 
-- 🌐 **Full-Stack Web Development** (React, Flask, Bootstrap, PostgreSQL)  
-- 📱 **Mobile App Development** (Android Studio, Kotlin, Java, Spring Boot)  
+- 🌐 **Full-Stack Web Development** (React, Flask, Bootstrap, PostgreSQL, Firebase, MongoDB)  
+- 📱 **Mobile App Development**  Kotlin, Java, Spring Boot, Swift)  
 - 🛠️ **Backend Systems** (Flask, Spring Boot, GlassFish)  
 - 🤖 **AI & Automation** (Trading Bots, AI-based Decision Making, Reinforcement Learning)
 - 📈 **Algorithmic Trading** (MetaTrader, Automated Trading Systems)
