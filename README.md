@@ -20,29 +20,23 @@ Android, and iOS applications.
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer with hands-on experience designing,
-developing, testing, and deploying real-world software solutions.
+I'm a Full-Stack Software Engineer and Tech Lead passionate about
+building scalable, secure, and production-ready applications.
 
-My expertise spans full-stack web development, native mobile applications,
-RESTful APIs, payment integrations, cloud technologies, and software
-quality assurance.
+My expertise spans full-stack web development, native Android and
+iOS applications, cloud infrastructure, database architecture,
+payment integrations, and software quality assurance.
 
-I enjoy turning complex problems into practical, scalable applications
-that improve everyday experiences.
-
-- 🔭 Currently working as a **Tech Lead at Cybaug** and
-  **Full-Stack Developer at Brandacapers Africa**.
-- 📱 Sole developer of **JAC ScanPayGo**, a production retail
-  self-checkout application available on Android and iOS.
-- 🌐 Building scalable web platforms using
-  **React, TypeScript, Node.js, Express, and MongoDB**.
-- ⚙️ Experienced in **REST API development, payment integrations,
-  authentication, and CI/CD pipelines**.
-- 🧪 Passionate about **Software Quality Assurance, Testing,
-  and Secure Development**.
-- ☁️ Exploring **Cloud Computing, AI-Assisted Development,
-  and Software Architecture**.
-- 🤝 Interested in collaborating on innovative software projects.
+- 💼 **Tech Lead at Cybaug** | **Full-Stack Developer at Brandacapers Africa**
+- 📱 Sole developer of **JAC ScanPayGo**, available on Android and iOS.
+- 🌐 Building scalable applications with **React, TypeScript, Node.js, and Express**.
+- 🗄️ Working with **MongoDB, MySQL, Supabase, Firebase, and Redis**.
+- ☁️ Experienced with **AWS, Vercel, Cloudflare, and CI/CD pipelines**.
+- 🤖 Leveraging **OpenAI Codex, Claude, GitHub Copilot, and Cursor** to improve development workflows.
+- 🔐 Experienced in **REST APIs, OAuth, payment gateways, and secure authentication**.
+- 🧪 Passionate about **Software Quality Assurance, Automation, and Testing**.
+- 🏆 **1st Place — CSIR Student Cyber Challenge 2025**.
+- 🎓 Pursuing an **Advanced Diploma in Computer Science**.
 
 ---
 
@@ -78,6 +72,7 @@ that improve everyday experiences.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## 📱 Mobile App Development
@@ -89,24 +84,31 @@ that improve everyday experiences.
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud, Hosting & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+## 🤖 AI-Assisted Development
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🛠️ Development & Collaboration Tools
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
----
 
 # 💼 Professional Experience
 
